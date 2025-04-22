@@ -1,0 +1,10 @@
+{
+    "require": {
+        "solder/solder": "^0.7.5"
+    },
+    "config": {
+        "allow-plugins": {
+            "kylekatarnls/update-helper": true
+        }
+    }
+}
